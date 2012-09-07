@@ -1,0 +1,21 @@
+<DOCTYPE HTML>
+<html>
+<!-- Marisa Rovereto
+     Intro to Programming
+     09/07/12
+     Practice Git Hub -->
+<head>
+	<meta http-equiv="Contnet-Type" content="text/html;charset=utf-8" />
+	<meta name="author"		content="Marisa Rovereto" />
+	<title>My Second Web Page</title>
+	<style>
+	   .footer {font-style: italic;}
+	</style>
+</head>
+<body>
+	Hello
+	<br>
+	<p class= "footer">
+	</p>
+</body>
+</html>
